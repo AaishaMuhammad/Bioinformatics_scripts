@@ -2,7 +2,7 @@
 A script that finds the index/s of the genome where GC Skew is minimum. 
 
 Input: str genome
-Output: list of indexes where GC Skew is minimum. 
+Output: list of indices where GC Skew is minimum. 
 
 '''
 
